@@ -1,0 +1,12 @@
+{
+  "name": "Nights 女性夜间出行 AI 安全陪伴助手",
+  "description": "以“朋友式陪伴”为核心的女性夜间出行 AI 个人安全 Agent，具备情绪理解、多模态环境感知、动态风险计算与全流程交互系统。",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
